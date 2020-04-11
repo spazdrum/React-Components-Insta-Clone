@@ -1,9 +1,8 @@
 //Complete the necessary code in this file
 // import useState
-import React from "react";
+import React, { useState } from "react";
 import Post from "./Post";
 import "./Posts.css";
-import React, { useState } from "react";
 // import data 
 
 const PostsPage = () => {
